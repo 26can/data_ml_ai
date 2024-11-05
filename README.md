@@ -1,2 +1,2 @@
-# DevLearning
-Self Learning program for development
+# MLLearning
+Self Learning project for Data science,Machine Learning and AI
